@@ -1,0 +1,8 @@
+venv
+.env
+acc.py
+app.py
+app3.py
+local_embeddings
+research_Papers
+sh.py
